@@ -8,7 +8,7 @@ import pyttsx3
 # =========================
 # CONFIG
 # =========================
-WEATHER_API_KEY = "c8558652c35dd3188649b9785b3e446b"
+WEATHER_API_KEY = "xxxxxx"
 LAT, LON = 18.3, 74.6
 
 # =========================
